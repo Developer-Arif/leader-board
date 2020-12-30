@@ -1,0 +1,140 @@
+body{
+    background-color: #F3F1FF;
+}
+.brandlogo{
+    width: 42px;
+    height: 51px;
+}
+header{
+    background-color: #562EFF;
+}
+.userimg{
+    width: 51px;
+    height: 51px;
+    margin-right: 20px;
+}
+.nav-link{
+    margin-right: 35px;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 30px;
+    letter-spacing: 0.05em;
+    text-align: left;
+}
+.row img{
+width: 56px;
+height: 56px;
+}
+.player{
+    display: flex;
+    padding: 15px;
+}
+.player h5{
+    margin-left: 20px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000; 
+}
+.top-player{
+    background-color: white;
+    margin-top: 25px;
+    margin-bottom: 50px;
+    padding : 20px 40px 10px 30px;
+    border-radius: 5px;
+}
+.top-player p{
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+color: #562EFF;
+}
+.img img{
+    width: 177px;
+    height: 117px;
+}
+.writertag{
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+line-height: 36px;
+}
+.b-text{
+    margin-left: 30px;
+}
+
+.blog{
+    margin-bottom: 20px;
+}
+
+.latesCourse{
+    background-color: white;
+    padding: 30px 40px 20px 40px;
+}
+
+.latesCourse p{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #562EFF;
+    }
+
+.card img{
+    width: 100%;
+    height: 204px;
+    padding: 10px;
+
+}
+.card{
+    border-radius: 15px;
+}
+.stars{
+    display: flex;
+    padding-left: 0px;
+}
+.stars li{
+    list-style: none;
+}
+.star1 {
+    color: tomato;
+}
+.star2 {
+    color: tomato;
+}
+.star3 {
+    color: tomato;
+}
+.star4 {
+    color: tomato;
+}
+.timestyle{
+    margin-left: 5px;
+}
+.footerstyle{
+    margin-top: 10px;
+
+}
+.time{
+    text-align: center;
+    height: 30px;
+    width: 120px;
+    border-radius: 20px;
+    background-color: wheat;
+    color: red;
+}
+.lm{
+    padding-left: 55px;
+}
+.copyright{
+    margin-top: 50px;
+}
