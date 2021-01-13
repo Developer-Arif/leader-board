@@ -126,14 +126,13 @@ line-height: 36px;
 }
 .time{
     text-align: center;
-    height: 30px;
-    width: 120px;
-    border-radius: 20px;
-    background-color: wheat;
     color: red;
 }
 .lm{
-    padding-left: 55px;
+    
+    padding-left: 0px;
+    padding-right: 1px;
+ 
 }
 .copyright{
     margin-top: 50px;
